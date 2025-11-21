@@ -1,0 +1,13 @@
+venv/*
+__pycache__/*
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.db
+firebase-credentials.json
+firebase-credentials*.json
+.env*
+!.env.example
+detection_config.json
+models/*.pt
